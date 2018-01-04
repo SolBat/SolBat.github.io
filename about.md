@@ -5,9 +5,10 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+​			**"Imagination is the only weapon in the war against reality"** 
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+​								**- Lewis Carrol -**
+
+​					상상은 현실과 맞설 수 있는 유일한 무기다. 
+
+</p>
