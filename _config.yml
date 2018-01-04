@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            SolBat.org
+title:            SolBat
 tagline:          'A Jekyll theme'
 description:      '흔한 개발자'
 url:              https://fongandrew.github.io/hydeout
